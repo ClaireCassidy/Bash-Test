@@ -1,2 +1,3 @@
 # Bash-Test
-Testing command line prompts for Git
+Testing command line prompts for Git.
+This is my first attempt.
